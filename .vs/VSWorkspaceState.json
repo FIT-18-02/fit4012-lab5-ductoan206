@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\scripts",
+    "\\.github\\workflows",
+    "\\docs",
+    "\\logs",
+    "\\scripts",
+    "\\tests"
+  ],
+  "SelectedNode": "\\structures.h",
+  "PreviewInSolutionExplorer": false
+}
