@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "E:\\fit4012-lab5-ductoan206\\fit4012-lab5-ductoan206\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-05-14T10:10:10.213Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "keyfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-14T10:10:05.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:10:05.876Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "encrypt.cpp",
               "ViewState": "AgIAANAAAAAAAAAAAAAAAKUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T10:08:34.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:08:34.09Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "decrypt.cpp",
               "ViewState": "AgIAAKEAAAAAAAAAAAAAAJcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T10:08:26.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:08:26.525Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-14T10:08:14.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:08:14.807Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "cbc_encrypt.cpp",
               "ViewState": "AgIAANIBAAAAAAAAAAAAAPYBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T10:06:53.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:06:53.191Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "cbc_decrypt.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIBAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T10:06:27.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:06:27.527Z"
             },
             {
               "$type": "Document",
@@ -197,8 +191,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-14T10:05:06.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:05:06.376Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "tests\\test_aes_compile.sh",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2026-05-14T10:02:29.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:02:29.117Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "scripts\\run_sample.sh",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2026-05-14T10:02:11.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:02:11.256Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "logs\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-14T10:01:50.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:01:50.95Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "logs\\.gitkeep",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-14T10:01:49.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:01:49.348Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": ".github\\workflows\\ci.yml",
               "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-05-14T10:01:33.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:01:33.509Z"
             },
             {
               "$type": "Document",
@@ -275,8 +263,7 @@
               "RelativeToolTip": "docs\\aes-code-notes.md",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-14T09:59:29.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T09:59:29.456Z"
             },
             {
               "$type": "Document",
@@ -288,8 +275,7 @@
               "RelativeToolTip": ".github\\scripts\\check_submission.sh",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2026-05-14T10:01:18.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:01:18.695Z"
             },
             {
               "$type": "Document",
@@ -301,8 +287,7 @@
               "RelativeToolTip": "report-1page.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-14T09:59:35.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T09:59:35.674Z"
             }
           ]
         }
